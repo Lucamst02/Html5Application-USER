@@ -12,4 +12,4 @@
   - EMAIL
   - CITTA'
 
-   La lista JSON di utenti (USERS) è contenuta al seguente link: ([jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users "jsonplaceholder.typicode.com/users"))
+   La lista JSON di utenti (USERS) è contenuta al seguente link: [jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users "jsonplaceholder.typicode.com/users")
